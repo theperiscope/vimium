@@ -1,0 +1,1 @@
+deno --allow-read --allow-write --allow-env --allow-net --allow-run ./make.js package
